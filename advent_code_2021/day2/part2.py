@@ -18,7 +18,7 @@ def move_sub(direction, coord):
 
 
 # import the data 
-txtfile=open("C:\\Users\\Wolfy\\code\\advent_code_2021\\day2\\input.txt")
+txtfile=open(".\\input.txt")
 for line in txtfile:
     line=line.strip()
     line=line.split(" ")
