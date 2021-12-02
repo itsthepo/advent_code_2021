@@ -2,7 +2,7 @@
 counter = 0
 
 #import the list
-txtfile=open("C:\\Users\\Wolfy\\code\\advent_code_2021\\day1_sonar_sweep\\input.txt", encoding='UTF-16')
+txtfile=open("C:\\Users\\Wolfy\\code\\advent_code_2021\\day1\\input.txt", encoding='UTF-16')
 L=[]
 for line in txtfile:
     L.append(line.rstrip())
